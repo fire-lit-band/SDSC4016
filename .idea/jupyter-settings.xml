@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="D:/OneDrive - City University of Hong Kong - Student/cityu/笔记/pandas/.idea/pandas.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="C:\Users\PRAGM\anaconda3\python.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="D:/OneDrive - City University of Hong Kong - Student/cityu/课件/优化/SDSC2002/lecture-note/w3-GD/.idea/w3-GD.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="E:\anaconda3\envs\test\python.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../score based/.idea/score based.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="E:\anaconda3\envs\am2l\python.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
