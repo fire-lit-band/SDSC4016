@@ -10,13 +10,13 @@ print(df.shape)
 df.to_csv('./data/origin_sentiment_data.csv',index=False)
 
 # 3.read the comment data
-# df=pd.read_csv('./data/origin_sentiment_data.csv')
+df=pd.read_csv('./data/origin_sentiment_data.csv')
 
 # 4.split into train and test data
 from sklearn.model_selection import train_test_split
-# train, test = train_test_split(df, test_size=0.2)
-# train.to_csv('./data/train_sentiment_data.csv',index=True)
-# test.to_csv('./data/test_sentiment_data.csv',index=True)
+train, test = train_test_split(df, test_size=0.2)
+train.to_csv('./data/train_sentiment_data.csv',index=True)
+test.to_csv('./data/test_sentiment_data.csv',index=True)
 
 # train=pd.read_csv('./data/train_sentiment_data.csv')
 #
