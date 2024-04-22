@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1c5570c5-600a-4268-ba5c-bc56851a3a8c" name="shen">
+        <fileTransfer rootFolder="/root/project" accessType="SFTP" host="region-45.autodl.pro" port="19605" sshConfigId="aaa33f0d-9727-4586-ba8f-9947da693c34" sshConfig="root@region-45.autodl.pro:19605 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fbb8c6ce-ef6f-43d7-9bae-7cb98f7735cf" name="bert">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="connect.beijinga.seetacloud.com" port="41949" sshConfigId="16615087-c08c-47a6-a40a-8765d3445144" sshConfig="root@connect.beijinga.seetacloud.com:41949 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
