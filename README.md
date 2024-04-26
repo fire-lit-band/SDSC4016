@@ -26,3 +26,7 @@ The implement of our two ensemble models: sentiment ensemble model and social en
 ### [sentiment](sentiment)
 
 Code of the implementation of the sentiment analysis
+
+### [baseline](baseline)
+
+The two baseline models that we use to compare: traditional MF model and MF_baseline.ipynb
